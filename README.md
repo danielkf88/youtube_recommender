@@ -41,8 +41,10 @@ A final product as a PowerBI dashboard
 To use this repository, you can clone it to your local machine and run the Jupyter Notebooks to scrape, clean, and model the data for your own project.
 
 ## Credits
-This project was completed by Lee Kah Fai Daniel as part of his Capstone Report and Technical Analysis.
+This project was completed by Lee Kah Fai Daniel as part of his Capstone Report and Technical Analysis requirements for General Assembly Data Analyst Immersive course.
+
 https://softexpert.pk/how-to-copy-all-the-titles-and-urls-from-youtube-channel/ for technique to retrieve links from youtube channels
+
 https://maartengr.github.io/BERTopic/faq.html#how-do-i-remove-stop-words for techique in improving BERTopic modelling results
 
 ## License
