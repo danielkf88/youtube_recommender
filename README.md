@@ -20,15 +20,24 @@ The third part involved modeling to determine the quality of videos. The hypothe
 ## Usage
 This YouTube Data Science Video Library is a collection of curated videos from data professionals ranked by a scoring system based on the video's actual like count and its predicted like count. The repository includes:
 
-Jupyter Notebooks used for data scraping, cleaning, feature engineering, and modeling\n
-1_yt_stats_scraper.ipynb contain steps in getting info from youtube\n
-2_yt_caption_scraper.ipynb contain steps in getting caption from youtube\n
-3_yt_data_prep.ipynb contain steps in feature engineering and ngrams analysis\n
-4_word_cloud.ipynb contain steps in generating wordcloud using youtube title and caption\n
-5_bert_topic_modelling.ipynb contain steps in using BERTopic modelling\n
-6_modelling.ipynb contain steps in modelling and creation of final csv for building dashboard in PowerBI\n
-A data folder containing the video links: vid_link_final.csv and vid_info_final.csv (end csv file after 1_yt_stats_scraper.ipynb)\n
-A final product as a PowerBI dashboard\n 
+Jupyter Notebooks used for data scraping, cleaning, feature engineering, and modeling
+
+1_yt_stats_scraper.ipynb contain steps in getting info from youtube
+
+2_yt_caption_scraper.ipynb contain steps in getting caption from youtube
+
+3_yt_data_prep.ipynb contain steps in feature engineering and ngrams analysis
+
+4_word_cloud.ipynb contain steps in generating wordcloud using youtube title and caption
+
+5_bert_topic_modelling.ipynb contain steps in using BERTopic modelling
+
+6_modelling.ipynb contain steps in modelling and creation of final csv for building dashboard in PowerBI
+
+A data folder containing the video links: vid_link_final.csv and vid_info_final.csv (end csv file after 1_yt_stats_scraper.ipynb)
+
+A final product as a PowerBI dashboard
+
 To use this repository, you can clone it to your local machine and run the Jupyter Notebooks to scrape, clean, and model the data for your own project.
 
 ## Credits
